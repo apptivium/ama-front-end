@@ -1,2 +1,1 @@
-# uipaitape-front-end
-Front-end do site para UIPA – União Internacional Protetora dos Animais de Itapetininga/SP.
+Front-end do site para Aumigos dos animais de Itapetininga/SP.
